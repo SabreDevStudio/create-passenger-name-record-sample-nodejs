@@ -99,7 +99,7 @@ Occasionally, the booking is prevented because the flight is not found. In that 
 
 ## Next Steps
 
-Make use of this sample app as a testing tool. It’s a simple, flexible, jumping-off point for learning how to use Sabre APIs in general, and Create Passenger Name Record in particular. Look up the [PNR docs](https://developer.sabre.com/docs/rest_apis/air/book/create_passenger_name_record/) and discover all that it can do. Find something interesting? Call it by changing the request attribute values found in the file `PNRModel.js`. Save the file and run the app to see how the updates perform.
+Make use of this sample app as a testing tool. It’s a simple, flexible, jumping-off point for learning how to use Sabre APIs in general, and Create Passenger Name Record in particular. Look up the [PNR docs](https://developer.sabre.com/docs/rest_apis/air/book/create_passenger_name_record/) and discover all that it can do. Find something interesting? Call it by changing the request attribute values found in the file [`PNRModel.js`](./src/PNRModel.js). Save the file and run the app to see how the updates perform.
 
 Get in touch with us. GitHub allows communication through its repo-level issue and pull request channels. Use the built-in [issues section](https://github.com/SabreDevStudio/create-passenger-name-record-sample-nodejs/issues).
 
