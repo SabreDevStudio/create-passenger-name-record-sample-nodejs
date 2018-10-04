@@ -1,0 +1,16 @@
+{
+  "name": "create-passenger-name-record-demo",
+  "version": "0.1.0",
+  "description": "This app demonstrates creating a PNR with a flight using the Create Passenger Name Record API.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/App.js"
+  },
+  "author": "Sabre Travel Network Developer Relations",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

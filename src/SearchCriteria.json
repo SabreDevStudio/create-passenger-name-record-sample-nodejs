@@ -1,0 +1,11 @@
+{
+  "flightNumber": "6020",
+  "airlineCode": "DL",
+  "departure": {
+    "airportCode": "DFW"
+  },
+  "arrival": {
+    "airportCode": "JFK"
+  },
+  "daysInAdvance": 14
+}
