@@ -12,8 +12,6 @@ How can this API do several things in one request? It’s a software architectur
 
 Creating a PNR is an important step in the [shop-and-book workflow](https://developer.sabre.com/docs/read/workflows/Book_Air_Segment). That influenced our choice to create a new sample app. It shows how software developers can call Create Passenger Name Record, parse the results, and display the content. Our goal is making it quicker for developers to get started using the API.
 
-Consider this article as a partner to the sample app source code. You’ll find explanations and additional resources written here to add context whenever possible. Source code for the sample app is stored in a repo on our GitHub account. If you don’t know about GitHub, it’s a popular hosting provider for storing code using the git revision control system. Accessing our source code is free and easy.
-
 What does the sample app look like when it runs? Here’s a screen shot:
 
 ![App Screenshot](./docs/CreatePNRScreen.jpg)
