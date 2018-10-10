@@ -24,7 +24,7 @@ There's [an article](https://blog.developer.sabre.com/) serving as a partner to 
 
 ## Watch the Screencast
 
-There's a [screencast-style, code walkthrough video](https://www.youtube.com/user/SabreNewsTV), showing a way to approach this source code.
+There's a [screencast-style, code walkthrough video](https://youtu.be/gfnwtDiAaJ4), showing a way to approach this source code.
 
 ## Setting-up the Sample App
 
